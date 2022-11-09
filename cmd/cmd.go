@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/josephspurrier/goversioninfo"
+	"github.com/HardDie/goversioninfo"
 )
 
 type Arguments struct {

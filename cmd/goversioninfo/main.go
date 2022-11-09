@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/josephspurrier/goversioninfo/cmd"
+	"github.com/HardDie/goversioninfo/cmd"
 )
 
 func main() {
